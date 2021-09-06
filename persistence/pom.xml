@@ -61,11 +61,11 @@
             <properties>
                 <default.schema>starterkit</default.schema>
                 <hbm2ddl.auto>update</hbm2ddl.auto>
-                <dataSource.serverName>192.168.1.26</dataSource.serverName>
+                <dataSource.serverName>10.10.20.5</dataSource.serverName>
                 <dataSource.portNumber>5432</dataSource.portNumber>
                 <dataSource.databaseName>starterkit</dataSource.databaseName>
                 <dataSource.user>postgres</dataSource.user>
-                <dataSource.password>cafeteraroja.</dataSource.password>
+                <dataSource.password>root</dataSource.password>
             </properties>
             <build>
                 <resources>
